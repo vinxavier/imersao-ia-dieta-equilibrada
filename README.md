@@ -27,6 +27,9 @@ Or arquivo é salvo em:
 
 E aqui um exemplo de PDF gerado:
 
+Veja completo em: [Dieta Carla Nogueira.pdf](https://github.com/vinxavier/imersao-ia-dieta-equilibrada/blob/main/Dieta%20Carla%20Nogueira.pdf)
+
+
 ![image](https://github.com/vinxavier/imersao-ia-dieta-equilibrada/assets/42624994/7bde07ab-08de-4b4a-8584-4a58d31840d0)
 
 
